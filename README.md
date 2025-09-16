@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### ✨&nbsp; About Me
 
-🎓 I'm a graduate student majoring in Software Engineering at the **University of Science and Technology of China (中国科学技术大学)**.
+🎓 I'm a graduate student majoring in Software Engineering at the **University of Science and Technology of China**.
 
 💻 I'm passionate about open-source and enjoy turning ideas into reality with code.
 
