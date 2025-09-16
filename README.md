@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋，I'm Fang Chengjie.
 
 <!--
 **wanglezz/wanglezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### ✨&nbsp; About Me
+
+🎓 I'm a graduate student majoring in Software Engineering at the **University of Science and Technology of China (中国科学技术大学)**.
+
+💻 I'm passionate about open-source and enjoy turning ideas into reality with code.
+
