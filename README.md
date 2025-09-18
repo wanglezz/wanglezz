@@ -19,5 +19,8 @@ Here are some ideas to get you started:
 
 🎓 I'm a graduate student majoring in Software Engineering at the **University of Science and Technology of China**.
 
-💻 I'm passionate about open-source and enjoy turning ideas into reality with code.
+- 👀 I'm passionate about **Deep Learning** and the open-source community.
+- 🌱 I’m currently learning **Principles of Deep Learning** and **Modern Deep Learning Frameworks**.
+- 💬 Ask me about Python, C++, data structures, algorithms.
+- 📫 How to reach me: you can reach me at fangchengjie@outlook.com.
 
