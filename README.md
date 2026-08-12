@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 🎓 I'm a graduate student majoring in Software Engineering at the **University of Science and Technology of China**.
 
-- 👀 I'm passionate about **Deep Learning** and the open-source community.
-- 🌱 I’m currently learning **Principles of Deep Learning** and **Modern Deep Learning Frameworks**.
-- 💬 Ask me about Python, C++, data structures, algorithms.
-- 📫 How to reach me: you can reach me at fangchengjie@outlook.com.
+- 🔬 I work on **LLM post-training** — SFT, GRPO/PPO, and RL for multi-turn tool-using agents.
+- 🧪 Currently building an **agentic RL pipeline on τ²-bench**: failure attribution → trajectory distillation → SFT → GRPO, with ablations on reward shaping and KL anchoring.
+- ⚙️ Also interested in the systems side: vLLM rollout, FSDP training, weight sync, and memory optimization.
+- 💬 Ask me about **GRPO/PPO internals, agent evaluation & failure analysis, Python, C++, algorithms**.
+- 📫 Reach me at [fangchengjie@outlook.com](mailto:fangchengjie@outlook.com).
+
 
